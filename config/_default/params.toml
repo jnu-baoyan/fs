@@ -15,7 +15,7 @@
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
   # 网站标题, 用于 Open Graph 和 Twitter Cards
-  title = "江南大学 ME 保研仓库"
+  title = "江南大学 FS 保研仓库"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
   description = "一个收集了江南大学历届保研经验帖、材料等天才地宝的网站"
@@ -50,7 +50,7 @@
       logo = ""
       # title name
       # 标题名称
-      name = "JNU ME BAOYAN"
+      name = "JNU FS BAOYAN"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
@@ -183,7 +183,7 @@
       avatarURL = ""
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
-      title = "<span style='font-size: 1.8rem; font-weight: bold;'>江南大学 CS 保研经验仓库</span>"
+      title = "<span style='font-size: 1.8rem; font-weight: bold;'>江南大学 FS 保研经验仓库</span>"
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
       subtitle = "<span style='font-size: 1.2rem; font-weight: bold;'>那个夏天，我们顶峰相见</span>"

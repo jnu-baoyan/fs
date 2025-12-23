@@ -4,7 +4,7 @@ date: 2025-12-21
 weight: 1          # ← 关键！数值越小越靠前
 author: Klein
 authorLink: "https://github.com/kleinblue4"
-description: "江南大学 ME 保研仓库前言"
+description: "江南大学 FS 保研仓库前言"
 draft: false
 # summary: "这是文章的简短摘要，只显示这一行。"
 # 关键：留空 []，不要写 ["ZhuXian.jpg"]
@@ -19,30 +19,31 @@ lightgallery: true
 feature: true   # 可选，保险起见保留
 ---
 
-# JNU-ME-BAOYAN
+# JNU-FS-BAOYAN
 
-欢迎体验 **江南大学机械工程相关专业保研经验分享项目**！本项目旨在收集和整理保研经验、所需材料，为有志于升学的学弟学妹提供参考，帮助大家更好地准备夏令营和预推免。
+欢迎体验 **江南大学食品科学相关专业保研经验分享项目**！本项目旨在收集和整理保研经验、所需材料，为有志于升学的学弟学妹提供参考，帮助大家更好地准备夏令营和预推免。
 
 该网站最早起源于 **[江南大学计算机相关专业保研仓库](https://github.com/kleinblue4/JNU-CS-BAOYAN)** ，后在各学院朋友的助力下，开始搭建各学院专属的 **[经验帖平台](https://github.com/orgs/jnu-baoyan/repositories)**，如果觉得本项目有帮助，请 :star: 支持一下。
 
 ## 📖 项目概述
 
 我们收集了江南大学计算机相关专业的保研经验，分为以下几个部分：
-- **[夏令营](/site/categories/夏令营/)**：夏令营相关经验分享。
-- **[预推免](/site/categories/预推免/)**：预推免相关经验分享。
-- **[准备&复习](/site/ref/)**：保研过程中复习与准备的材料参考。
-- **[流程指引](/site/guide/)**：保研的各阶段时间线安排。
-- **[贡献指南](/me/contribution)**：对于已经上岸的同学，欢迎在本站分享自己的保研经验。
+- **[夏令营](/fs/categories/夏令营/)**：夏令营相关经验分享。
+- **[预推免](/fs/categories/预推免/)**：预推免相关经验分享。
+- **[准备&复习](/fs/ref/)**：保研过程中复习与准备的材料参考。
+- **[流程指引](/fs/guide/)**：保研的各阶段时间线安排。
+- **[贡献指南](/fs/contribution)**：对于已经上岸的同学，欢迎在本站分享自己的保研经验。
 
 经验贴内容仅为学长学姐的个人经历，供参考。每年政策和形式可能不同，请理性阅读，结合自身情况规划。
 
 ## 🤝 如何贡献
 
-欢迎各位已经上岸的同学分享自己的保研经验，具体贡献流程请参照 **[贡献指南](/me/contribution)**
+欢迎各位已经上岸的同学分享自己的保研经验，具体贡献流程请参照 **[贡献指南](/fs/contribution)**
 
 **问题反馈**：如对本网站有疑问或建议，请通过以下方式联系：
-  - 在 GitHub 提交 [Issue](https://github.com/kleinblue4/JNU-CS-BAOYAN/issues)。
+  - QQ 群：481703190
   - 邮箱：a2194037898@163.com
+  - 在 GitHub 提交 [Issue](https://github.com/kleinblue4/JNU-CS-BAOYAN/issues)。
 
 
 ## 🔬 服务

@@ -93,7 +93,7 @@
           
           # 添加封面小图片 
           avatarURL = "/images/lighthouse-small.jpg"
-          title = "<span style='font-size: 1.8rem; font-weight: bold;'>江南大学 ME 保研经验仓库</span>"
+          title = "<span style='font-size: 1.8rem; font-weight: bold;'>江南大学 FS 保研经验仓库</span>"
           subtitle = "<span style='font-size: 1.2rem; font-weight: bold;'>那个夏天，我们顶峰相见</span>"
           typeit = true
           social = true

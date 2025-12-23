@@ -1,4 +1,4 @@
-baseURL = "https://jnu-baoyan.github.io/me/"
+baseURL = "https://jnu-baoyan.github.io/fs/"
 # baseURL = "https://example.com"
 
 # theme
@@ -7,7 +7,7 @@ theme = "LoveIt"
 
 # website title
 # 网站标题
-title = "江南大学 ME 保研仓库"
+title = "江南大学 FS 保研仓库"
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
